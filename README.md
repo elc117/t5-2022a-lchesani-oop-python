@@ -92,7 +92,11 @@ Esse também não é um uso onde o POO se destaque, foi feito exclusivamente a f
 
 - [POO](https://github.com/elc117/t5-2022a-lchesani-oop-python/tree/main/POO)
 
+## Conclusão
+
 Nota-se que a utilização em POO funciona muito bem quanto a organização, mesmo em um programa tão pequeno, em projetos maiores a diferença é ainda maior, visto que o mesmo código é utilizado por vários desenvolvedores.
+
+Também é válido apontar como o código em POO é extremamente mútavel, sendo bem menos sucetível a problemas caso modificações sejam feitas.
 
 o nome.setter está definindo um setter para o nome.
 ## Referências
