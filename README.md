@@ -86,7 +86,7 @@ Aqui eu trago dois simples códigos, um escrito em Python procedural, o outro, o
 
 A intenção nessa comparação não é mostrar a superioridade de uma ou outra, mas sim mostrar as diferenças.
 
-Esse também não é um uso onde o POO se destaque, foi feito exclusivamente a fins didáticos.
+Esse também não é um uso onde o POO se destaque, foi feito exclusivamente a fins didáticos e não explora 1% das possibilidades da orientação a objetos.
 
 - Procedural:
 
