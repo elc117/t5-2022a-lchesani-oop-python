@@ -1,4 +1,12 @@
-# Programação orientada a objetos
+
+<h1 align="center"> Programação Orientada a Objetos </h1>
+
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/92533013/184757634-89de0ae8-5904-463a-95ce-2313e9dda979.png" />
+</p>
+
+
+
 
 ## Por que usar Python orientado a objetos?
 
