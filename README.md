@@ -81,7 +81,7 @@ def nome(self, nome):
 ```
 o nome.setter está definindo um setter para o nome.
 
-### Exemplo
+## Exemplo
 
 Aqui eu trago dois simples códigos, um escrito em Python procedural, o outro, orientado a objetos, ambos baseados no jogo "Pedra, papel e tesoura".
 
