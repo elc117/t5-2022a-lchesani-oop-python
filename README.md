@@ -18,6 +18,8 @@ Com o Python sendo uma linguagem multiparadigma, por que escolheriamos especific
 
 - Muito utilizado para códigos compartilhados e grandes projetos.
 
+- Não é necessário se prender exclusivamente em POO, você pode usar procedural ou funcional complementando seu código.
+
 ## Diferenças entre Python e Java
 
 O Python, muito diferente do java não se prende a tipos, o que acelera o objetivo, na maioria das vezes.
