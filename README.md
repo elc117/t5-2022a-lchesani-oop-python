@@ -88,9 +88,9 @@ A intenção nessa comparação não é mostrar a superioridade de uma ou outra,
 
 Esse também não é um uso onde o POO se destaque, foi feito exclusivamente a fins didáticos e não explora 1% das possibilidades da orientação a objetos.
 
-- Procedural:
+- [Procedural](https://github.com/elc117/t5-2022a-lchesani-oop-python/tree/main/Procedural)
 
-- POO:
+- [POO](https://github.com/elc117/t5-2022a-lchesani-oop-python/tree/main/POO)
 
 
 o nome.setter está definindo um setter para o nome.
