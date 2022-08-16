@@ -79,6 +79,16 @@ o property indica que o método é um getter
 def nome(self, nome):
   self.nome = nome;
 ```
+
+### Exemplo
+
+Aqui eu trago dois simples códigos, um escrito em Python procedural, o outro, orientado a objetos, ambos baseados no jogo "Pedra, papel e tesoura".
+
+Procedural:
+
+POO:
+
+
 o nome.setter está definindo um setter para o nome.
 ## Referências
 
