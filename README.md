@@ -86,9 +86,11 @@ Aqui eu trago dois simples códigos, um escrito em Python procedural, o outro, o
 
 A intenção nessa comparação não é mostrar a superioridade de uma ou outra, mas sim mostrar as diferenças.
 
-Procedural:
+Esse também não é um uso onde o POO se destaque, foi feito exclusivamente a fins didáticos.
 
-POO:
+- Procedural:
+
+- POO:
 
 
 o nome.setter está definindo um setter para o nome.
