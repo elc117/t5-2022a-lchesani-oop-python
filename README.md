@@ -79,6 +79,7 @@ o property indica que o método é um getter
 def nome(self, nome):
   self.nome = nome;
 ```
+o nome.setter está definindo um setter para o nome.
 
 ### Exemplo
 
@@ -98,7 +99,7 @@ Nota-se que a utilização em POO funciona muito bem quanto a organização, mes
 
 Também é válido apontar como o código em POO é extremamente mútavel, sendo bem menos sucetível a problemas caso modificações sejam feitas.
 
-o nome.setter está definindo um setter para o nome.
+
 ## Referências
 
 [Python vs Java in OOP](https://realpython.com/oop-in-python-vs-java/)
