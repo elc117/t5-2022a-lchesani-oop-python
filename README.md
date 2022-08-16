@@ -84,6 +84,8 @@ def nome(self, nome):
 
 Aqui eu trago dois simples códigos, um escrito em Python procedural, o outro, orientado a objetos, ambos baseados no jogo "Pedra, papel e tesoura".
 
+A intenção nessa comparação não é mostrar a superioridade de uma ou outra, mas sim mostrar as diferenças.
+
 Procedural:
 
 POO:
