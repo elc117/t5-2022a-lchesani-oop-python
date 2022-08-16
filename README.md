@@ -92,6 +92,7 @@ Esse também não é um uso onde o POO se destaque, foi feito exclusivamente a f
 
 - [POO](https://github.com/elc117/t5-2022a-lchesani-oop-python/tree/main/POO)
 
+Nota-se que a utilização em POO funciona muito bem quanto a organização, mesmo em um programa tão pequeno, em projetos maiores a diferença é ainda maior, visto que o mesmo código é utilizado por vários desenvolvedores.
 
 o nome.setter está definindo um setter para o nome.
 ## Referências
