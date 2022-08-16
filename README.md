@@ -101,3 +101,5 @@ o nome.setter está definindo um setter para o nome.
 
 [POO em Python](https://www.treinaweb.com.br/blog/orientacao-a-objetos-em-python)
 
+[O que são objetos e como instanciá-los](https://www.youtube.com/watch?v=2noSw2TWZao)
+
